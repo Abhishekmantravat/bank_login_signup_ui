@@ -11,12 +11,12 @@
 
 # 🌟 Signin_ui_screen
 
-![Uploading InShot_20230810_140411126.jpg…]()
+![InShot_20230810_140411126](https://github.com/Abhishekmantravat/bank_login_signup_ui/assets/124698979/ddac4dac-9178-42ec-81f7-de56d26c780d)
 
 
 # 🌟 Signup_ui_screen
 
-![Uploading InShot_20230810_140558807.jpg…]()
+![InShot_20230810_140558807](https://github.com/Abhishekmantravat/bank_login_signup_ui/assets/124698979/ca1a6b17-89d9-436a-a301-c84be6e5500c)
 
 # Thanks 👌👌👌👌👌
 This project is a starting point for a Flutter application.
