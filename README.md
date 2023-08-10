@@ -6,16 +6,17 @@
 
 # 🌟 Welcome Screen 
 
-![Screenshot_20230809-114048_1](https://github.com/Abhishekmantravat/bank_login_signup_ui/assets/124698979/cbe68fcc-7ff2-4367-a364-9c85b2c384be)
+![InShot_20230810_135823697](https://github.com/Abhishekmantravat/bank_login_signup_ui/assets/124698979/7baee220-3b99-440e-bee4-9706f105bad0)
+
 
 # 🌟 Signin_ui_screen
 
-![Screenshot_20230809-114054](https://github.com/Abhishekmantravat/bank_login_signup_ui/assets/124698979/8ca1ddaf-7768-4114-97ef-036595c95ec8)
+![Uploading InShot_20230810_140411126.jpg…]()
+
 
 # 🌟 Signup_ui_screen
 
-![Screenshot_20230809-114059](https://github.com/Abhishekmantravat/bank_login_signup_ui/assets/124698979/1c1e9f56-a911-485c-b9df-76f336cb353e)
-
+![Uploading InShot_20230810_140558807.jpg…]()
 
 # Thanks 👌👌👌👌👌
 This project is a starting point for a Flutter application.
