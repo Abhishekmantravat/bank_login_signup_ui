@@ -64,11 +64,11 @@ class loginscreen extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: [
                       Text(
-                        "Creda",
+                        "𝗖𝗿𝗲𝗱𝗮",
                         style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
-                            fontSize: 44),
+                            fontSize: 40),
                       )
                     ],
                   ),
@@ -80,7 +80,7 @@ class loginscreen extends StatelessWidget {
                     children: [
                       Text(
                         "Get your Subscriptions Under control with ",
-                        style: TextStyle(color: Colors.grey, fontSize: 15),
+                        style: TextStyle(color: Colors.grey, fontSize: 15 , fontStyle: FontStyle.normal),
                       )
                     ],
                   ),
@@ -107,7 +107,7 @@ class loginscreen extends StatelessWidget {
                       child: Container(
                         child: ElevatedButton(
                             onPressed: () {
-                              Navigator.push(context, MaterialPageRoute(builder: (context)=> const sign_in_screen()));
+                              Navigator.push(context, MaterialPageRoute(builder: (context)=>  sign_in_screen()));
                             },
                             style: ElevatedButton.styleFrom(
                                 backgroundColor: Colors.black,
